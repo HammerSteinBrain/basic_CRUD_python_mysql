@@ -1,6 +1,6 @@
-# Sistemas Operacionais 2 - Basic Crud with Python
+# Sistemas Operacionais 2 - Basic Crud with Python in Docker
 
-CRUD basico desenvolvido para testar um servidor mysql levantado com docker compose
+CRUD basico desenvolvido para testar um servidor mysql levantado com *docker compose*
 
 Trabalho para a disciplica de Sistemas Operacionais 2
 Professor Jean Carlos
