@@ -43,7 +43,7 @@ Executar o projeto em ambiente Linux (Qualquer distro)
 -SQL
 -Ubuntu
 
-## Contruido com:
+## Construido com:
 
 * [Python](https://www.python.org/doc/) - The language used
 * [SQL](https://www.w3schools.com/sql/) - The language used
