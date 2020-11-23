@@ -1,4 +1,4 @@
-# Sistemas Operacionais 2 - Basic Crud with Python in Docker
+# Basic Crud with Python in Docker
 
 CRUD basico desenvolvido para testar um servidor mysql levantado com *docker compose*
 
